@@ -14,8 +14,17 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
