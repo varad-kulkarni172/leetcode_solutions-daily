@@ -8,6 +8,6 @@ public class Solution {
         // }
         // return false;
 
-        return Arrays.stream(nums).distinct().count() < nums.length;
+        return Arrays.stream(nums).distinct().count() < nums.length; // Need to convert Arrays to streams first as Arrays is not a utility class and thus doesnt have the distinct and count methods directly
     }
 }
