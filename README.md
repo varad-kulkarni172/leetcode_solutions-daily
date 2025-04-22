@@ -23,8 +23,14 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
