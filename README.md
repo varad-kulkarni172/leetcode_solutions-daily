@@ -13,6 +13,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -22,6 +23,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0242-valid-anagram) |
 ## Sorting
