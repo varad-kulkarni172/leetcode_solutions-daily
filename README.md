@@ -17,6 +17,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -62,4 +63,8 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
