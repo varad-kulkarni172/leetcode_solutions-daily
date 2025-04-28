@@ -20,6 +20,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0347-top-k-frequent-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
