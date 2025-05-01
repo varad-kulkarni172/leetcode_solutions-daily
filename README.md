@@ -18,6 +18,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 | [0036-valid-sudoku](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0347-top-k-frequent-elements) |
@@ -27,6 +28,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +84,8 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
