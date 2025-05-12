@@ -19,6 +19,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0074-search-a-2d-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Here you'll find my solutions to various LeetCode problems, organized by difficu
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/varad-kulkarni172/leetcode_solutions-daily/tree/master/0792-binary-search) |
 ## Greedy
